@@ -1,0 +1,252 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
+    "category": "Phone",
+    "price": 870.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 1344.5,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 2,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
+    "category": "Phone",
+    "price": 345.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 345.8,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 3,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
+    "category": "Phone",
+    "price": 353.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 4,
+    "product_title": "GThe Great Gatsby",
+    "product_image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
+    "category": "Phone",
+    "price": 4267.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 5,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
+    "category": "Phone",
+    "price": 347.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 6,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
+    "category": "Laptop",
+    "price": 3456.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 7,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
+    "category": "Laptop",
+    "price": 99.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 8,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
+    "category": "Laptop",
+    "price": 99.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 9,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Laptop",
+    "price": 99.99,
+    "description": "Classic.",
+    "Specification": ["14-inch display", "AMD Ryzen 9", "16GB RAM", "1TB SSD"],
+    "availability": false,
+    "rating": 4.7,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 10,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Laptop",
+    "price": 99.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 11,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Earphone",
+    "price": 49.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 12,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Earphone",
+    "price": 49.99,
+    "description": "Classic",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 13,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Earphone",
+    "price": 79.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 14,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Earphone",
+    "price": 29.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  },
+  {
+    "product_id": 15,
+    "product_title": "The Great Gatsby",
+    "product_image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "category": "Earphone",
+    "price": 99.99,
+    "description": "Classic.",
+    "Specification": [
+      "A great book",
+      "No. 1 best seller in America",
+      "Breathtaking journey into the story",
+      "A one sitting read."
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "review": "A marvelous literary work that captures the essence of the Jazz Age."
+  }
+]
