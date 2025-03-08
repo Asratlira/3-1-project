@@ -40,7 +40,7 @@ const router = createBrowserRouter([
         element: <GadgetBarChart></GadgetBarChart>,
       },
       {
-        path: "/reviews",
+        path: "reviews",
         element: <Reviews></Reviews>,
         loader: () => fetch("/public/data.json"),
       },
